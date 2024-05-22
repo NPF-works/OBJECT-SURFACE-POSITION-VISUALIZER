@@ -26,6 +26,7 @@ HINT:
 -did you know that you can temporarily modify selected object's ground checker component -you can also select and lift multiple objects above ground and see their visual placement locations as well
 
 NOTE:
+-----
 -this script is partialy made by AI
 
 ALLOWED:
