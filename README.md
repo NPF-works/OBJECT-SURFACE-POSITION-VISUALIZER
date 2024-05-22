@@ -49,7 +49,7 @@ ALLOWED:
 
 NOT ALLOWED:
 ------------
--this script in his original form cannot be:
+-this script in his original form cannot be:  
 1 sold  
 2 integrated in unity asset products  
 3 claimed it's yours
