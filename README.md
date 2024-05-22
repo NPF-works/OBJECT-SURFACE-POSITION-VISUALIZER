@@ -1,6 +1,8 @@
 DEAR CREATOR
 
 thank you for choosing this tools and welcome
+i generate this code for me,my vrc friends like:Wo.....,An...... etc.etc
+and all public users on the net
 
 PURPOSE:
 --------
