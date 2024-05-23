@@ -46,7 +46,8 @@ ALLOWED:
 1 modify  
 2 use in unity projects  
 3 sale (if modified)  
-4 share 5 advertise original script in none monetary purpose
+4 share  
+5 advertise original script in none monetary purpose
 
 NOT ALLOWED:
 ------------
